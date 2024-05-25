@@ -11,12 +11,12 @@
 <a href="https://twitter.com/tifkin_">
     <img src="https://img.shields.io/twitter/follow/tifkin_?style=social"
       alt="@tifkin_ on Twitter"/></a>
-<a href="https://twitter.com/harmj0y">
+<a href="[[https://twitter.com/harmj0y](https://x.com/BagheriM)](https://x.com/BagheriM)">
     <img src="https://img.shields.io/twitter/follow/harmj0y?style=social"
-      alt="@harmj0y on Twitter"/></a>
-<a href="https://twitter.com/0xdab0">
-    <img src="https://img.shields.io/twitter/follow/0xdab0?style=social"
-      alt="@0xdab0 on Twitter"/></a>
+      alt="@BagheriM on Twitter"/></a>
+<a href="https://twitter.com/bagheriM">
+    <img src="https://img.shields.io/twitter/follow/BagheriM?style=social"
+      alt="@BagheriM on Twitter"/></a>
 <a href="https://github.com/specterops#nemesis">
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fspecterops%2F.github%2Fmain%2Fconfig%2Fshield.json&style=flat"
       alt="Sponsored by SpecterOps"/>
